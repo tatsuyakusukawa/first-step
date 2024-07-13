@@ -10,6 +10,7 @@
 - Webページ内のテキスト情報の構成（タイトル・段落など）などをコンピュータさんが構造的に理解できるようにするために使います！
 
 ## CSSとは
+![CSS_logo](https://github.com/user-attachments/assets/9822a85f-c33d-4a5b-b20b-a857896b1546)
 - 「Cascading Style Sheets」の略で、Webサイトのサイズや色、レイアウトなどを設定するためのスタイルシート言語です
 - CSSではHTMLで作られたページを装飾し、Webサイトの「見え方」を決めることができます！
 
