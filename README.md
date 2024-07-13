@@ -5,6 +5,7 @@
 - HTML, CSSをはじめて触ってみて、「できた！」「お〜！」を体験する！
 
 ## HTMLとは
+![HTML5_logo](https://github.com/user-attachments/assets/0812c153-58b8-45fe-a640-309052adcec0)
 - 「Hyper Text Markup Language」の略で、Webページを制作するためのマークアップ言語です
 - Webページ内のテキスト情報の構成（タイトル・段落など）などをコンピュータさんが構造的に理解できるようにするために使います！
 
