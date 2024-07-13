@@ -3,7 +3,7 @@
 
 ## 今日のゴール！
 - HTML,CSSをはじめて触って画面に文字や画像を表示してみる
--'「できた！」「お〜！」'を体験する！（ぜひ大きなリアクションを！）
+- 「できた！」「お〜！」を体験する！（ぜひ大きなリアクションを！！）
 
 ## HTMLとは
 ![HTML5_Logo](https://github.com/user-attachments/assets/2261be21-b6f3-4b71-a014-ecc78cef55a1)
@@ -18,64 +18,114 @@
 - CSSではHTMLで作られたページを装飾し、Webサイトの「見え方」を決めることができます！　　
   ![image](https://github.com/user-attachments/assets/824e5320-b7ed-412e-be59-fc47e2ef27d3)
 
+### ページの構成要素を見るためには
+- Chromeのデベロッパーツール（検証画面）で画面を構成しているHTMLやCSSを確認することができます　　
+<img width="621" alt="image" src="https://github.com/user-attachments/assets/75aa325c-8c2c-4138-ae81-d0e35f781b0c">　　<br>
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/1737cda0-fd64-4337-836a-bc78f1a6cdbb">
 
 
 
 ## ここからハンズオン！
 
 ### STEP1：必要なファイルをダウンロードしてVSCODEで開いてみよう！
-- GithubからZipファイルをダウンロード  
+- GithubからZipファイルをダウンロード<br>
 　![image](https://github.com/user-attachments/assets/5a8f90a1-6edd-4d50-95ee-f10cbc4851b8)
 
-- ダウンロードしたZipファイルを解凍する  
+- ダウンロードしたZipファイルを解凍する<br>
 ![image](https://github.com/user-attachments/assets/fa4e67c8-0716-40dd-bf09-5458b6c5db40)
 
-- VSCODEを開く  
+- VSCODEを開く<br>
 ![image](https://github.com/user-attachments/assets/f6d50d3a-06d4-4daa-96e5-3a8b97814fa9)
 
-- 「開く」をクリックして解凍したフォルダを選択  
+- 「開く」をクリックして解凍したフォルダを選択<br>
 ![image](https://github.com/user-attachments/assets/bd37a6af-c778-4a91-b91e-16968a66a2a1)
-- ここまで来ればOK!  
+- ここまで来ればOK!<br>
 ![image](https://github.com/user-attachments/assets/3ac705aa-47d9-45d2-8f68-d7ecc49285a0)
 
-### STEP2：HTMLファイルを触ってみよう！
-- practiceフォルダのindex.htmlを開いてみよう　　
+
+
+### STEP2：HTMLファイルを触ってみよう！<br>
+- practiceフォルダのindex.htmlを開く<br>
 ![image](https://github.com/user-attachments/assets/bfad92a3-814e-4612-a339-3c4fc517656f)
-- 「!(半角のビックリマーク)」を打って、「Tab」を押しましょう！
-![image](https://github.com/user-attachments/assets/ba99718f-955b-41c7-941c-33c795d9207e)
+
+
+- 「!(半角のビックリマーク)」を打って、「Tab」を押下　<br>
+![image](https://github.com/user-attachments/assets/ba99718f-955b-41c7-941c-33c795d9207e)<br>
 ![image](https://github.com/user-attachments/assets/56dc93f1-c363-48e3-a9aa-c1477e11181f)　　
 - （余裕があれば、"en"を”ja”に変えておきましょう） 
 
--　bodyタグの中に下記のコードを書いてみよう！
+-　bodyタグの中に下記のコードを書いてみよう！<br>
 ```
 <h1>プログラミングはじめの一歩！</h1>　　
 ```
 　　
 ![image](https://github.com/user-attachments/assets/ac6b54ee-a516-4013-b3c7-303ded2900a7)
 
-- 記載できたら、Liveserverを起動する！
+- 記載できたら、Liveserverを起動　　<br>
 ![image](https://github.com/user-attachments/assets/801f2f5c-f94e-4268-a080-0b85e768c8a3)　　
 
-- 下記の画面のようになればOK！
+- 下記の画面のようになればOK！　　<br>
 ![image](https://github.com/user-attachments/assets/a07bbafd-0407-4546-b080-ad08fb02699d)　　
 
-- 次は下記のコードを、「<h1>プログラミングはじめの一歩！</h1>　」の下に書いてみよう！
+- 次は下記のコードを、先ほどのコードの下に書いてみよう！<br>
 ```
 <p>これは改行タグです</p>
 ```
+![image](https://github.com/user-attachments/assets/513acb91-f995-44d8-89ab-dfe5e1577581)　　
 
-- 下記の画面のようになればOK！　　
+
+- 下記の画面のようになればOK！　　<br>
 ![image](https://github.com/user-attachments/assets/cc90ce35-d977-4980-a405-128cc740f71e)
 
 
+### STEP3:CSSファイルを触ってみよう！
+- HTMLとCSSのファイルを繋げるためにindex.htmlのファイルに下記を書きましょう！<br>
+```
+<link rel="stylesheet" href="style.css">  
+```
+![image](https://github.com/user-attachments/assets/f8243cdf-fd37-420a-a6e5-0aa9c9cbb61c)
 
 
-### STEP3
+- practiceフォルダのstyle.cssを開く　　<br>
+![image](https://github.com/user-attachments/assets/2e327956-4c23-4a91-bccb-d27877d27b88)
+
+
+- 下記を書いてみよう！<br>
+```
+h1{
+    color: red;
+}
+```
+
+- 下記の画面のようになればOK！　　<br>
+![image](https://github.com/user-attachments/assets/8eb6dc11-18e3-4edc-b82e-a5add1e6de65)
+
+
 
 ### STEP4
+
+
+
+
+## さいごに　
+
+- わからない場合は
+- まずは自分で調べてみる
+- 試してみる
+- 試してみてわからない場合は、質問する！
+
+- わからないことや同期やチューターと一緒に学んでいきましょう！
+<img width="661" alt="image" src="https://github.com/user-attachments/assets/4e3764bc-cd37-4114-bb07-25f000e1a03f">
+
 
 
 ## サンプルサイト
 - [G'sACADEMYホームページ](https://gsacademy.jp/)
 - [Google](https://www.google.co.jp/)
+
+## おすすめサイト
+- [基本のタグを知れるサイト](https://makusan.ne.jp/html-tag/)
+- [CSSセレクタのチートシート](https://webliker.info/css-selector-cheat-sheet/)
+- [質問は恥ではないし、役にたつ](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)
+
 
