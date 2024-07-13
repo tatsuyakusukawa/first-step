@@ -22,14 +22,18 @@
 ![image](https://github.com/user-attachments/assets/5a8f90a1-6edd-4d50-95ee-f10cbc4851b8)
 
 - ダウンロードしたZipファイルを解凍する
+- 
 ![image](https://github.com/user-attachments/assets/fa4e67c8-0716-40dd-bf09-5458b6c5db40)
 
 - VSCODEを開く
+- 
 ![image](https://github.com/user-attachments/assets/f6d50d3a-06d4-4daa-96e5-3a8b97814fa9)
 
 - Macの方は「ファイル」から「フォルダを開く」で解凍したフォルダを選択
+- 
 ![image](https://github.com/user-attachments/assets/76b69dc2-16d2-49f2-9d12-2a0b9f81d822)
 - ここまで来ればOK!
+- 
 ![image](https://github.com/user-attachments/assets/3ac705aa-47d9-45d2-8f68-d7ecc49285a0)
 
 ### STEP2
