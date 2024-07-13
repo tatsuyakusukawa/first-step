@@ -23,7 +23,12 @@ h1{
 }
 
 body{
-    
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+li{
+    list-style: none;
 }
 
 
