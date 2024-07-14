@@ -102,8 +102,27 @@ h1{
 
 
 
-### STEP4
+### STEP4：画像を表示させてみよう！
+- imgタグをindex.htmlに書く（ img -> tabキー で表示されます！）　　<br>
+![image](https://github.com/user-attachments/assets/4e4df6d9-3b26-4b5d-be1b-7d23436369c8)
+```
+<img src="" alt="">
+```
+- imgタグに必要な情報を入力する<br>
+```
+<img src="img/neko_sample.png" alt="猫の画像">
+```
+【補足】imgタグに必要な情報とは<br>
+![image](https://github.com/user-attachments/assets/672c0599-3771-4b70-a71a-22961ab1f095)
 
+
+- 下記の画面のようになればOK!<br>
+
+- 画像にもCSSをあてることができます！<br>
+![image](https://github.com/user-attachments/assets/3dd2eb6e-32a6-49c7-a2df-f294450c3416)
+
+- 下記の画面のようになればOK!<br>
+![image](https://github.com/user-attachments/assets/2a80185c-5282-4677-b3ec-c09b0736e250)
 
 
 
