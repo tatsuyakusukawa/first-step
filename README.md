@@ -117,6 +117,8 @@ h1{
 
 
 - 下記の画面のようになればOK!<br>
+![image](https://github.com/user-attachments/assets/5dc8a213-d424-460d-8856-c454c6f6688e)
+
 
 - 画像にもCSSをあてることができます！<br>
 ![image](https://github.com/user-attachments/assets/3dd2eb6e-32a6-49c7-a2df-f294450c3416)
