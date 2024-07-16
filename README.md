@@ -4,6 +4,8 @@
 - HTML,CSSをはじめて触って画面に文字や画像を表示してみる
 - 「できた！」「お〜！」を体験する！（ぜひ大きなリアクションを！！）
 
+## Webの仕組み（超ざっくり）
+
 ## HTML とは
 ![HTML5_Logo](https://github.com/user-attachments/assets/2261be21-b6f3-4b71-a014-ecc78cef55a1)
 - 「Hyper Text Markup Language」の略で、Webページを制作するためのマークアップ言語です
@@ -55,7 +57,7 @@
 
 -　bodyタグの中に下記のコードを書いてみよう！<br>
 ```
-<h1>プログラミングはじめの一歩！</h1>　　
+<h1>Hello world!</h1>　　
 ```
 　　
 ![image](https://github.com/user-attachments/assets/ac6b54ee-a516-4013-b3c7-303ded2900a7)
