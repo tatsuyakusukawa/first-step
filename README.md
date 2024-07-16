@@ -90,7 +90,7 @@
 ```
 <link rel="stylesheet" href="style.css">  
 ```
-![image](https://github.com/user-attachments/assets/f8243cdf-fd37-420a-a6e5-0aa9c9cbb61c)
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/243016d9-18e3-4881-91a2-b4d57b9b1aa7">
 
 
 - practiceフォルダのstyle.cssを開く　　<br>
@@ -105,7 +105,7 @@ h1{
 ```
 
 - 下記の画面のようになればOK！　　<br>
-![image](https://github.com/user-attachments/assets/8eb6dc11-18e3-4edc-b82e-a5add1e6de65)
+![image](https://github.com/user-attachments/assets/539ac231-717f-41de-ac60-e25ca0e7bfd4)
 
 
 
