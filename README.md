@@ -5,6 +5,12 @@
 - 「できた！」「お〜！」を体験する！（ぜひ大きなリアクションを！！）
 
 ## Webの仕組み（超ざっくり）
+![無題のプレゼンテーション](https://github.com/user-attachments/assets/36d7112a-e8c2-40e6-9fd2-696089ca76ac)
+
+![無題のプレゼンテーション (1)](https://github.com/user-attachments/assets/596e0242-03d3-439d-92e5-8a59f29314e3)
+
+![無題のプレゼンテーション (2)](https://github.com/user-attachments/assets/96fa5d31-61d5-4ef7-8bd7-b68fa9cba999)
+
 
 ## HTML とは
 ![HTML5_Logo](https://github.com/user-attachments/assets/2261be21-b6f3-4b71-a014-ecc78cef55a1)
@@ -39,7 +45,7 @@
 ![image](https://github.com/user-attachments/assets/f6d50d3a-06d4-4daa-96e5-3a8b97814fa9)
 
 - 「開く」をクリックして解凍したフォルダを選択<br>
-![image](https://github.com/user-attachments/assets/bd37a6af-c778-4a91-b91e-16968a66a2a1)
+![image](https://github.com/user-attachments/assets/04e4c016-712b-42fc-9082-c46fd3c2dab9)
 - ここまで来ればOK!<br>
 ![image](https://github.com/user-attachments/assets/3ac705aa-47d9-45d2-8f68-d7ecc49285a0)
 
@@ -60,23 +66,23 @@
 <h1>Hello world!</h1>　　
 ```
 　　
-![image](https://github.com/user-attachments/assets/ac6b54ee-a516-4013-b3c7-303ded2900a7)
+<img width="516" alt="image" src="https://github.com/user-attachments/assets/053edc88-0107-4387-926f-de18d581c0e3">
 
 - 記載できたら、Liveserverを起動　　<br>
 ![image](https://github.com/user-attachments/assets/801f2f5c-f94e-4268-a080-0b85e768c8a3)　　
 
 - 下記の画面のようになればOK！　　<br>
-![image](https://github.com/user-attachments/assets/a07bbafd-0407-4546-b080-ad08fb02699d)　　
+![image](https://github.com/user-attachments/assets/cd290131-7241-4660-b515-0ef306172b88)
 
 - 次は下記のコードを、先ほどのコードの下に書いてみよう！<br>
 ```
 <p>これは改行タグです</p>
 ```
-![image](https://github.com/user-attachments/assets/513acb91-f995-44d8-89ab-dfe5e1577581)　　
+<img width="489" alt="image" src="https://github.com/user-attachments/assets/d435442c-2506-4f06-a785-9f7a9bd894a7">
 
 
 - 下記の画面のようになればOK！　　<br>
-![image](https://github.com/user-attachments/assets/cc90ce35-d977-4980-a405-128cc740f71e)
+![image](https://github.com/user-attachments/assets/136faaa8-03f3-4189-bbc2-01b047f54dae)
 
 
 ### STEP3:CSSファイルを触ってみよう！
@@ -84,7 +90,7 @@
 ```
 <link rel="stylesheet" href="style.css">  
 ```
-![image](https://github.com/user-attachments/assets/f8243cdf-fd37-420a-a6e5-0aa9c9cbb61c)
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/243016d9-18e3-4881-91a2-b4d57b9b1aa7">
 
 
 - practiceフォルダのstyle.cssを開く　　<br>
@@ -99,7 +105,7 @@ h1{
 ```
 
 - 下記の画面のようになればOK！　　<br>
-![image](https://github.com/user-attachments/assets/8eb6dc11-18e3-4edc-b82e-a5add1e6de65)
+![image](https://github.com/user-attachments/assets/539ac231-717f-41de-ac60-e25ca0e7bfd4)
 
 
 
@@ -118,14 +124,14 @@ h1{
 
 
 - 下記の画面のようになればOK!<br>
-![image](https://github.com/user-attachments/assets/77f4ff12-de11-4fd9-ae0d-589513908d18)
+![image](https://github.com/user-attachments/assets/dbc9101a-50df-4785-af95-ad482a4a5dcd)
 
 
 - 画像にもCSSをあてることができます！画像を適切な大きさにしてあげましょう<br>
 ![image](https://github.com/user-attachments/assets/3dd2eb6e-32a6-49c7-a2df-f294450c3416)
 
 - 下記の画面のようになればOK!<br>
-![image](https://github.com/user-attachments/assets/55d882f9-8a73-4fd5-a652-0edc2e8bcb9d)
+![image](https://github.com/user-attachments/assets/f2553bf1-8807-453e-8a1d-abce379a4390)
 
 
 
