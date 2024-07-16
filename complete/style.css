@@ -4,9 +4,6 @@ h1{
     color: red;
 }
 
-p{
-    font-weight: bold;
-}
 
 img{
      max-width: 80px; /*最大の横幅を80pxにする */
