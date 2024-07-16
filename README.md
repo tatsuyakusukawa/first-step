@@ -4,14 +4,14 @@
 - HTML,CSSをはじめて触って画面に文字や画像を表示してみる
 - 「できた！」「お〜！」を体験する！（ぜひ大きなリアクションを！！）
 
-## HTMLとは
+## HTML とは
 ![HTML5_Logo](https://github.com/user-attachments/assets/2261be21-b6f3-4b71-a014-ecc78cef55a1)
 - 「Hyper Text Markup Language」の略で、Webページを制作するためのマークアップ言語です
 - タグというものを使って、Webページ内のテキスト情報の構成（タイトル・段落など）などをコンピュータさんが構造的に理解できるようにします！　　
  ![image](https://github.com/user-attachments/assets/a9ea9a3b-2c0a-4993-83f9-ac65274af353)
 
 
-## CSSとは
+## CSS とは
 ![CSS_logo](https://github.com/user-attachments/assets/9822a85f-c33d-4a5b-b20b-a857896b1546)
 - 「Cascading Style Sheets」の略で、Webサイトのサイズや色、レイアウトなどを設定するためのスタイルシート言語です
 - CSSではHTMLで作られたページを装飾し、Webサイトの「見え方」を決めることができます！　　
