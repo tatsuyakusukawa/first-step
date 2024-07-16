@@ -4,14 +4,14 @@
 - HTML,CSSをはじめて触って画面に文字や画像を表示してみる
 - 「できた！」「お〜！」を体験する！（ぜひ大きなリアクションを！！）
 
-## HTMLとは
+## HTML とは
 ![HTML5_Logo](https://github.com/user-attachments/assets/2261be21-b6f3-4b71-a014-ecc78cef55a1)
 - 「Hyper Text Markup Language」の略で、Webページを制作するためのマークアップ言語です
 - タグというものを使って、Webページ内のテキスト情報の構成（タイトル・段落など）などをコンピュータさんが構造的に理解できるようにします！　　
  ![image](https://github.com/user-attachments/assets/a9ea9a3b-2c0a-4993-83f9-ac65274af353)
 
 
-## CSSとは
+## CSS とは
 ![CSS_logo](https://github.com/user-attachments/assets/9822a85f-c33d-4a5b-b20b-a857896b1546)
 - 「Cascading Style Sheets」の略で、Webサイトのサイズや色、レイアウトなどを設定するためのスタイルシート言語です
 - CSSではHTMLで作られたページを装飾し、Webサイトの「見え方」を決めることができます！　　
@@ -109,21 +109,21 @@ h1{
 ```
 - imgタグに必要な情報を入力する<br>
 ```
-<img src="img/neko_sample.png" alt="猫の画像">
+<img src="img/ADA_img.png" alt="ADAの画像">
 ```
 【補足】imgタグに必要な情報とは<br>
 ![image](https://github.com/user-attachments/assets/672c0599-3771-4b70-a71a-22961ab1f095)
 
 
 - 下記の画面のようになればOK!<br>
-![image](https://github.com/user-attachments/assets/5dc8a213-d424-460d-8856-c454c6f6688e)
+![image](https://github.com/user-attachments/assets/77f4ff12-de11-4fd9-ae0d-589513908d18)
 
 
-- 画像にもCSSをあてることができます！<br>
+- 画像にもCSSをあてることができます！画像を適切な大きさにしてあげましょう<br>
 ![image](https://github.com/user-attachments/assets/3dd2eb6e-32a6-49c7-a2df-f294450c3416)
 
 - 下記の画面のようになればOK!<br>
-![image](https://github.com/user-attachments/assets/2a80185c-5282-4677-b3ec-c09b0736e250)
+![image](https://github.com/user-attachments/assets/55d882f9-8a73-4fd5-a652-0edc2e8bcb9d)
 
 
 
@@ -157,7 +157,7 @@ h1{
 
 
 ## サンプルサイト
-- [G'sACADEMYホームページ](https://gsacademy.jp/)
+- [G'sACADEMY ADAコース ホームページ](https://gsacademy.jp/adacourse/)
 - [Google](https://www.google.co.jp/)
 
 ## おすすめサイト
