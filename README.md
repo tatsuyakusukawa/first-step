@@ -124,14 +124,14 @@ h1{
 
 
 - 下記の画面のようになればOK!<br>
-![image](https://github.com/user-attachments/assets/77f4ff12-de11-4fd9-ae0d-589513908d18)
+![image](https://github.com/user-attachments/assets/dbc9101a-50df-4785-af95-ad482a4a5dcd)
 
 
 - 画像にもCSSをあてることができます！画像を適切な大きさにしてあげましょう<br>
 ![image](https://github.com/user-attachments/assets/3dd2eb6e-32a6-49c7-a2df-f294450c3416)
 
 - 下記の画面のようになればOK!<br>
-![image](https://github.com/user-attachments/assets/55d882f9-8a73-4fd5-a652-0edc2e8bcb9d)
+![image](https://github.com/user-attachments/assets/f2553bf1-8807-453e-8a1d-abce379a4390)
 
 
 
